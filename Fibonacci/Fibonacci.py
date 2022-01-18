@@ -7,4 +7,3 @@ def fib(n):
     else:
         return fib(n-2) + fib(n-1)
 
-print("Lulu is the best!")
